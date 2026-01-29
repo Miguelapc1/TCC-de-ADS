@@ -1,18 +1,16 @@
 <!-- Aqui será direcionado para o site do sistema -->
 # [AprendePy]()
 <section class="banner">
-
-<div class="image" align="center">
-    <br>
-    <br>
-    <a href="" /> <!-- Aqui será direcionado para o site do sistema -->
-        <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@9f7d30f089ecc458a8b836a75afab75caf5c0b36/docs/assets/logo_banner.svg" alt="stdlib logo">
+  <div class="image" align="center">
+    <br><br>
+    <a href="#"> <img src="https://github.com/user-attachments/assets/aefde491-3cf4-4810-839c-a86ab26da7e0" 
+           width="728" 
+           height="359" 
+           alt="Aprende.py logo">
     </a>
-    <br>
-    <br>
-    <br>
-    <br>
-</div>
+    <br><br><br><br>
+  </div>
+</section>
 
 ### Open Source Educational Engineering Platform
 
