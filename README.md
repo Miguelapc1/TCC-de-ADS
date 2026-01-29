@@ -1,10 +1,11 @@
-# [AprendePy](https://litmuschaos.io/)
+<!-- Aqui será direcionado para o site do sistema -->
+# [AprendePy]()
 <section class="banner">
 
 <div class="image" align="center">
     <br>
     <br>
-    <a href="https://stdlib.io/" />
+    <a href="" /> <!-- Aqui será direcionado para o site do sistema -->
         <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@9f7d30f089ecc458a8b836a75afab75caf5c0b36/docs/assets/logo_banner.svg" alt="stdlib logo">
     </a>
     <br>
@@ -20,10 +21,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/litmuschaos/chaos-operator.svg)](https://hub.docker.com/r/litmuschaos/chaos-operator)
 [![GitHub stars](https://img.shields.io/github/stars/litmuschaos/litmus?style=social)](https://github.com/litmuschaos/litmus/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/litmuschaos/litmus)](https://github.com/litmuschaos/litmus/issues)
-[![Twitter Follow](https://img.shields.io/twitter/follow/litmuschaos?style=social)](https://x.com/Miguel_apc16)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/3202/badge)](https://www.bestpractices.dev/projects/3202)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flitmuschaos%2Flitmus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flitmuschaos%2Flitmus?ref=badge_shield)
-[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20LitmusChaos%20Guru-006BFF)](https://gurubase.io/g/litmuschaos)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Miguelapc16?style=social)](https://x.com/Miguel_apc16)
 <br><br><br><br>
 
 ***
